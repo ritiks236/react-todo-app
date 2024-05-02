@@ -27,6 +27,9 @@ This React TO-DO application has intentionally been broken to test your debuggin
 6. **Counting Completed Tasks:**
    - **Issue:** The application is unable to count completed tasks.
    - **Fix:** Add functionality to count and display the number of completed tasks.
+  
+7. **Implement Material UI (https://mui.com/material-ui/)**
+   - **UI Improvment:** - Implement Material UI to improve user Experience.   
 
 ## Getting Started
 
