@@ -1,6 +1,6 @@
 # Broken React TO-DO Application
 
-This React TO-DO application has intentionally been broken to test your debugging and problem-solving skills. There are six critical issues that need to be fixed in order to restore the functionality of the application. Follow the instructions below to address each issue.
+This React TO-DO application has intentionally been broken to test your debugging and problem-solving skills. There are 7 critical issues that need to be fixed in order to restore the functionality of the application. Follow the instructions below to address each issue.
 
 ## Instructions
 
