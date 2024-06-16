@@ -7,6 +7,12 @@ export const TodoForm = (props) => {
 
   const handleAddTodo = () => {
     // Function to add todo
+    const newTodo = {
+      id: Date.now(),
+      label: task,
+      checked: null
+    }  
+    setTodos([...todos, newTodo]);
   };
 
   const handleKeyUp = (e) => {
